@@ -1,0 +1,32 @@
+{
+ "name": "스탯로그 · 유럽 축구 확률",
+ "short_name": "스탯로그",
+ "description": "유럽 6대 리그 경기별 승무패·핸디캡·스코어 확률과 시장 배당 변화를 쉽게 보는 통계 사이트",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "ko",
+ "background_color": "#faf6f0",
+ "theme_color": "#1b1815",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
